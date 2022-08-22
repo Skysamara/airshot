@@ -1,6 +1,7 @@
 // Работает
 // Выводит микросекунды
 // https://alexgyver.ru/lessons/pointers/ - Указатели. Переписать
+// 1
 
 
 const int pinLL = D5;
