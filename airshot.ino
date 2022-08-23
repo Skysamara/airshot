@@ -4,10 +4,10 @@
 // 1
 
 
-const int pinLL = D5;
-const int pinLH = D6;
-const int pinRL = D7;
-const int pinRH = D8; // на плате - D3
+const int pinLL = D5; // LM5
+const int pinLH = D6; // LM7
+const int pinRL = D7; // LM9
+const int pinRH = D8; // на плате - D3, // LM11
 
 
 
