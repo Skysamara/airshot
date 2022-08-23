@@ -1,0 +1,6 @@
+https://alexgyver.ru/lessons/pointers/ - Указатели
+https://alexgyver.ru/lessons/interrupts/ - Прерывания
+https://alexgyver.ru/lessons/variables-types/ - типы данных
+https://randomnerdtutorials.com/interrupts-timers-esp8266-arduino-ide-nodemcu/ - ESP8266 Interrupts and Timers using Arduino IDE (NodeMCU)
+
+https://alexgyver.ru/lessons/digital/ - Пины. !!! D8 в IDE - это D3 на плате
